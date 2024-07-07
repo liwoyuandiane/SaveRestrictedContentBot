@@ -12,3 +12,5 @@ services:
       SESSION: # Pyrogram string session
       AUTH: # User ID of Bot owner
       FORCESUB: # Username name of public channel without using '@'
+    ports:
+      - "5000:5000"
