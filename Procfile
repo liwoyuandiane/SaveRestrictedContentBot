@@ -1,1 +1,2 @@
-Drone: python -m main
+web: python -m main
+# Drone: python -m main
